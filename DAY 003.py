@@ -1,4 +1,4 @@
-# # Day 3 of 100 Days of Coding with Python
+#  Day 3 of 100 Days of Coding with Python
 
 print("Welcome to My Python Journey....from crawling to walking to running")
 
