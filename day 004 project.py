@@ -1,4 +1,5 @@
-# PROJECT FOR DAY FOUR -
+# PROJECT FOR DAY FOUR - ROCK PAPER SCISSORS
+
 import random
 
 rock0 = """
